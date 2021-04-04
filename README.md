@@ -4,4 +4,4 @@ Subdomain is an additional part of a main domain which are created to organise a
 
 The python code uploaded in my github is used to extract subdomain from the webpage. I have written this python code for the purpose of Mosse cybersecurity Institute Remote internship exercise. 
 
-world list from https://github.com/rbsec/dnscan
+subdomain list from https://github.com/rbsec/dnscan
