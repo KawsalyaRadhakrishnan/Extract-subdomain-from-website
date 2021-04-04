@@ -1,5 +1,4 @@
 import requests
-import http
 
 domain = input ("Enter a domain:")
 file = open("text.txt")
