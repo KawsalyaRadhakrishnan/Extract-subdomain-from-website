@@ -1,7 +1,7 @@
 import requests
 
 domain = input ("Enter a domain:")
-file = open("subdomain500.txt",'r')
+file = open("subdomains.txt",'r')
 content = file.read()
 
 subdomains = content.splitlines()
